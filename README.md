@@ -2,16 +2,16 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="170" height="170"/>
+  <img border-radius: 15px src="https://i.imgur.com/mWTsFew.jpeg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Manavalanser" src="https://img.shields.io/badge/shahanad-k-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/shahanad-k"><img title="Author" src="https://img.shields.io/badge/Author-shahanad-k/Manavalanser?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/shahanad-k">shahanad-k</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/shahanad-k/Manavalanser ">
+    <img src="https://img.shields.io/github/repo-size/shahanad-k/Manavalanser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/shahanad-k/followers"><img title="Followers" src="https://img.shields.io/github/followers/shahanad-k?color=red&style=flat-circle"></a>
+<a href="https://github.com/shahanad-k/Manavalanser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shahanad-k/Manavalanser?color=red&style=flat-square"></a>
+<a href="https://github.com/shahanad-k/Manavalanser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shahanad-k/Manavalanser?color=red&style=flat-square"></a>
+<a href="https://github.com/shahanad-k/Manavalanser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shahanad-k/Manavalanser?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
@@ -56,7 +56,7 @@ the user is responsible.
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/lastpink)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shahanad-k/Manavalanser)
      </div>
 <br>
 <br >
@@ -87,9 +87,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![shahanad-k](https://github.com/shahanad-k.png?size=100)](https://github.com/shahanad-k) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [shahanad-k](https://github.com/shahanad-k)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
