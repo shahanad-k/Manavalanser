@@ -23,10 +23,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *owner number http://wa.me/+919645090649?text=Hi*
 
 
-*paathu githublink   https://github.com/shahanad-k/Manavalanser_*
+*manavalan githublink   https://github.com/shahanad-k/Manavalanser_*
 
 
 *https://www.instagram.com/*
+
 
 
 
