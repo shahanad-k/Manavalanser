@@ -1,5 +1,6 @@
-## Thanks for Everything 
-### We will always remember you..
+## Thanks for Everything
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Manavalanser+WA+Bot+repo;Created+by+Shahanad+K;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/mWTsFew.jpeg" width="170" height="170"/>
