@@ -20,12 +20,18 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Shahanad K*
 *Creator number : http://wa.me/+919645090649?text=Hi Shahanad Bro*
+
 *Bot setting video : Soon*
+
 *Githublink (Setup)  :    https://github.com/shahanad-k/Manavalanser*
+
 *Audio commads :   https://github.com/shahanad-k/Manavalanser/tree/master/uploads*
+
 *Sticker commads : https://github.com/shahanad-k/Manavalanser/tree/master/uploads*
+
 *Instagram Link : https://www.instagram.com/shahanadk_z/*
-*Whatsapp Group Link : https://chat.whatsapp.com/GmAMFa9uPSp5rqcaX6nXUu
+
+*Whatsapp Group Link : https://chat.whatsapp.com/GmAMFa9uPSp5rqcaX6nXUu*
 `})
 
 }));
